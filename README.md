@@ -20,11 +20,12 @@ File structure:
     [the codes]
 
 Minimum header size would be: 32+256+0\*5=288b (36B)
+
 Maximum: 32+256+256\*5=1568b (196B)
 
 Sources for canonical Huffman:
 
-1. 'Practical Huffman coding' by Michael Schindler, [[www.compressconsult.com](http://www.compressconsult.com "www.compressconsult.com")]
+1. 'Practical Huffman coding' by Michael Schindler [[www.compressconsult.com](http://www.compressconsult.com "www.compressconsult.com")]
 2. Texts by Arturo Campos [[www.arturocampos.com](http://www.arturocampos.com "www.arturocampos.com")]
 
 ## Bit I/O
